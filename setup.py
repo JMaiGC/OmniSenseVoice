@@ -21,7 +21,7 @@ setup(
     python_requires=">=3.8",
     install_requires=[
         "funasr_onnx==0.4.1",
-        "modelscope==1.18.0",
+        "modelscope>=1.18.0",
         "funasr>=1.1.6",
         "lhotse>=1.24.2",
         "kaldialign",
